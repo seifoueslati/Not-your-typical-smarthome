@@ -1,3 +1,8 @@
+
+<h1><p align="center">
+SMARTHOME
+</p></h1>
+
 # 🎨 *Smart Home Control Application Concept*  
 *Aesthetic, Intuitive, and Customizable Smart Home Automation*
 
@@ -13,6 +18,9 @@ This concept challenges the norm by:
 - *Unified Experience*: Ensuring consistency across all platforms—tablet, mobile, smartwatch, and more—to provide a seamless and immersive interaction.
 
 ---
+
+ 
+<p align="center"><img src="[https://github.com/seifoueslati/Tawny/blob/main/images/Logo_tawny.png](https://github.com/seifoueslati/Not-your-typical-smarthome-dashboard-smart-home-/blob/main/Files/Screenshot%20(16).png)?" width="430"></p>
 
 ## 🛠️ *Current Status*  
 ### ✅ *What’s Done*  
