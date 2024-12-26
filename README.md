@@ -48,7 +48,9 @@ Add images or videos of your concept here to showcase your design. For example:
 https://github.com/user-attachments/assets/5b052a73-d9ff-4a7b-a01e-4301df8b8db9
 
 ### Mobile / Smartwatch / Stand Application  
-https://github.com/user-attachments/assets/efa24ac0-4c4d-40bf-9943-3af2e7796b5a
+ 
+https://github.com/user-attachments/assets/0fae3242-5d5b-4e7a-b1ec-79bdf5e7b398
+
 ---
 
 ## 📬 *Contact*  
