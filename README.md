@@ -2,7 +2,7 @@
 <h1><p align="center">
 SMARTHOME
 </p></h1>
-<p align="center"><img src="https://github.com/seifoueslati/Not-your-typical-smarthome/blob/main/Files/0.png" ></p>
+<p align="center"><img src="https://github.com/seifoueslati/Not-your-typical-smarthome/blob/main/Files/0.png" height="250"></p>
 # 🎨 *Smart Home Control Application Concept*  
 *Aesthetic, Intuitive, and Customizable Smart Home Automation*
 
