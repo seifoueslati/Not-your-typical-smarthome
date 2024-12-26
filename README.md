@@ -45,9 +45,9 @@ Stay tuned for:
 Add images or videos of your concept here to showcase your design. For example:  
 
 ### Tablet Interface  
-![Tablet UI Screenshot](link-to-image)  
+![Tablet UI ](https://github.com/seifoueslati/Not-your-typical-smarthome-dashboard-smart-home-/blob/main/final.mp4)  
 
-### Mobile Application  
+### Mobile / Smartwatch / Stand Application  
 ![Mobile App Screenshot](link-to-image)  
 
 ---
