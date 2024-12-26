@@ -20,7 +20,7 @@ This concept challenges the norm by:
 ---
 
  
-<p align="center"><img src="https://github.com/seifoueslati/Not-your-typical-smarthome-dashboard-smart-home-/blob/main/Files/Screenshot%20(16).png"   width="500"><img src="https://github.com/seifoueslati/Not-your-typical-smarthome-dashboard-smart-home-/blob/main/Files/Screenshot%20(21).png" height="400" width="500"></p>
+<p align="center"><img src="https://github.com/seifoueslati/Not-your-typical-smarthome-dashboard-smart-home-/blob/main/Files/Screenshot%20(16).png"   width="500"><img src="https://github.com/seifoueslati/Not-your-typical-smarthome-dashboard-smart-home-/blob/main/Files/Screenshot%20(21).png" height="330" width="500"></p>
 
 ## 🛠️ *Current Status*  
 ### ✅ *What’s Done*  
