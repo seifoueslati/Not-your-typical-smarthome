@@ -45,14 +45,13 @@ Stay tuned for:
 Add images or videos of your concept here to showcase your design. For example:  
 
 ### Tablet Interface  
-https://github.com/seifoueslati/Not-your-typical-smarthome-dashboard-smart-home-/blob/main/final.mp4  
+https://github.com/user-attachments/assets/5b052a73-d9ff-4a7b-a01e-4301df8b8db9
 
 ### Mobile / Smartwatch / Stand Application  
-![Mobile App Screenshot](link-to-image)  
-
+https://github.com/user-attachments/assets/efa24ac0-4c4d-40bf-9943-3af2e7796b5a
 ---
 
 ## 📬 *Contact*  
 Feel free to reach out if you’d like to collaborate or discuss this project!  
-- *GitHub*: [Your GitHub Profile](link-to-your-github)  
-- *LinkedIn*: [Your LinkedIn Profile](link-to-your-linkedin)
+- *GitHub*: [Your GitHub Profile]([link-to-your-github](https://github.com/seifoueslati))  
+- *LinkedIn*: [Your LinkedIn Profile]([link-to-your-linkedin](https://www.linkedin.com/in/seif-o-212840134/))
