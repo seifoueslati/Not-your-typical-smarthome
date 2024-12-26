@@ -64,5 +64,5 @@ https://github.com/user-attachments/assets/0fae3242-5d5b-4e7a-b1ec-79bdf5e7b398
 
 ## 📬 *Contact*  
 Feel free to reach out if you’d like to collaborate or discuss this project!  
-- *GitHub*: [Your GitHub Profile]([link-to-your-github](https://github.com/seifoueslati))  
-- *LinkedIn*: [Your LinkedIn Profile]([link-to-your-linkedin](https://www.linkedin.com/in/seif-o-212840134/))
+- *GitHub*:https://github.com/seifoueslati
+- *LinkedIn*:https://www.linkedin.com/in/seif-o-212840134/
