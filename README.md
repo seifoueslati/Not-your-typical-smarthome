@@ -20,7 +20,7 @@ This concept challenges the norm by:
 ---
 
  
-<p align="center"><img src="[https://github.com/seifoueslati/Tawny/blob/main/images/Logo_tawny.png](https://github.com/seifoueslati/Not-your-typical-smarthome-dashboard-smart-home-/blob/main/Files/Screenshot%20(16).png)?" width="430"></p>
+<p align="center"><img src="https://github.com/seifoueslati/Tawny/blob/main/images/Logo_tawny.png" width="430"></p>
 
 ## 🛠️ *Current Status*  
 ### ✅ *What’s Done*  
