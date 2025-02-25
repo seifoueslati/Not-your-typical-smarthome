@@ -31,7 +31,7 @@ This concept challenges the norm by:
 - The code is *not yet ready or optimized* but will be added in the future.  
 - This is an evolving project. *Keep an eye on this repository* as more updates and improvements will be shared.
 
----
+--- 
 
 ## 🌟 *Vision*  
 This project is about more than just control—it’s about creating an experience:  
