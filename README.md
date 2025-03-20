@@ -11,7 +11,7 @@ SMARTHOME
 ## 🚀 *About the Concept*  
 In a world where smart home automation is becoming increasingly popular, one thing remains overlooked—*aesthetics*. Most IoT dashboards and applications in the market prioritize functionality but lack the elegance to complement modern homes.  
 
-This concept challenges the norm by:  
+This concept challenges the norm by :
 - *Focusing on Aesthetics*: Moving away from the traditional square and rectangular layouts, this design introduces fluid, dynamic, and visually captivating interfaces that feel like a natural extension of your home.  
 - *Emphasizing Bonding*: Beyond functionality, the goal is to create an experience that users can bond with, much like the attachment people feel toward smart cars or personal robots.  
 - *Innovative Design: Exploring not just rectangular screens but also **round displays* and unconventional interfaces to elevate the user experience.  
