@@ -6,7 +6,7 @@ SMARTHOME
 # 🎨 *Smart Home Control Application Concept*  
 *Aesthetic, Intuitive, and Customizable Smart Home Automation*
 
----
+----
 
 ## 🚀 *About the Concept*  
 In a world where smart home automation is becoming increasingly popular, one thing remains overlooked—*aesthetics*. Most IoT dashboards and applications in the market prioritize functionality but lack the elegance to complement modern homes.  
